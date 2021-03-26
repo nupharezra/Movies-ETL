@@ -1,0 +1,5 @@
+#adding config.py file
+config.py
+
+#ignoring ratings.csv - too large to upload
+*ratings.csv
